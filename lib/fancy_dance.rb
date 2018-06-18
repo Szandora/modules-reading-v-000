@@ -6,7 +6,7 @@ module FancyDance
     end
 
     def jump
-      "look how high I'm jumping!"
+      "Look how high I'm jumping!"
     end
 
     def pirouette
@@ -25,4 +25,4 @@ module FancyDance
       "This class produces objects that love to dance."
     end
   end
-end 
+end
